@@ -1,0 +1,31 @@
+.section-container {
+    margin-top: 10%;
+}
+
+.panda-bg-info {
+    background-color: #fceae8;
+}
+
+.panda-carousel {
+    margin-top: 12%;
+}
+
+li a {
+    color: #fff;
+    margin-right: 20px;
+    transition: 1s;
+}
+
+li a:hover {
+    transform: scale(1.2);
+    background-color: rgb(0, 0, 0, 0.2);
+    border-radius: 10px;
+}
+
+.panda-btn-warning {
+    background-image: linear-gradient(to bottom, #FF589B 0%, #FF136F 100%);
+    border: none;
+    color: #fff;
+    padding: 9px 25px;
+    border-radius: 8px;
+}
